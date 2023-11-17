@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399532138576",
+    "project_id": "spot-xi-509c9",
+    "storage_bucket": "spot-xi-509c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399532138576:android:a91583f471de0a5cb07155",
+        "android_client_info": {
+          "package_name": "com.devin.spotxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399532138576-62ifkna33fpilgl186jlde5p7a326ebg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsIMkQvmOpcEpn64RSEBjol0feHCXSwuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399532138576-62ifkna33fpilgl186jlde5p7a326ebg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
